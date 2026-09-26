@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-google_calendar",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Google Calendar MCP Pack",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-086f646b70463c20c26d0b253eb30751e6ca110d6e4548eb290acb08484a2e97",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-0a6fa396419101cd92f0c9ec6a3739086270a0ab776b5c26ae6151511a0dc2eb",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
