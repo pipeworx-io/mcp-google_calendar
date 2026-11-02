@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-google_calendar",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Google Calendar MCP Pack",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "google_calendar",
     "gatewaySlug": "google_calendar",
-    "sourceHash": "v1-968a703eef824fd41e609a2fb99d384a7d8900bd127f55f0555c147b93540c87",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-a7aa59f8d19081577283fbe1782e401cc918f688e9d442e7d3f7868bf39deb19",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }
